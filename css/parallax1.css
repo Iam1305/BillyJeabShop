@@ -1,0 +1,51 @@
+
+
+
+.parallax {
+    /* The image used */
+    background-image: url("banner5.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.size {
+	  margin: 0px auto;
+  	  max-width:900px;
+}
+
+.parallax2 {
+    /* The image used */
+    background-image: url("banner5.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+{
+	font-family: 'Sriracha', cursive;
+}

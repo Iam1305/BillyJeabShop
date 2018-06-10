@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_typeproduct" value="name:p_type_id;datatype:int,name:p_type_name;datatype:string" />
+</info>

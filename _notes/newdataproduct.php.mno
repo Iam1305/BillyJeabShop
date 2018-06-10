@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_newdataproduct" value="name:product_id;datatype:int,name:product_name;datatype:string,name:product_price;datatype:int,name:product_amount;datatype:int" />
+	<infoitem key="UD_showproduct" value="name:p_id;datatype:int,name:p_name;datatype:string,name:p_detail;datatype:blob,name:p_price;datatype:real,name:p_img;datatype:string,name:date_save;datatype:timestamp" />
+	<infoitem key="UD_dataproduct" value="name:p_id;datatype:int,name:p_name;datatype:string,name:p_detail;datatype:blob,name:p_price;datatype:real,name:p_img;datatype:string,name:date_save;datatype:timestamp" />
+</info>
